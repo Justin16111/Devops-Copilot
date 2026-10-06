@@ -1,0 +1,7 @@
+{
+  "name": "DevOps Copilot - AI Incident Response Agent",
+  "description": "Autonomous multi-agent incident response platform that detects anomalies, isolates root causes, executes verified remediations, and documents postmortems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
